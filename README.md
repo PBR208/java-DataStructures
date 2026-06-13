@@ -81,6 +81,8 @@ The goal of this project is to:
 javac Main.java
 java Main
 
+```
+
 ## 📜 License
 
 This project is licensed under the MIT License, allowing free use, modification, and distribution with attribution.
